@@ -33,9 +33,10 @@ nul
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
 # Jupyter
 .ipynb_checkpoints/
+config.bat
+node_modules
